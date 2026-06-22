@@ -4,6 +4,10 @@ All notable changes to the Cellfire app are listed here, newest first.
 
 ---
 
+## v1.0.1.23 — 2026-06-22
+- Fix: CSV export now reads from the persistent PCI database instead of the live scan buffer. Exports work correctly whether or not scanning is currently active.
+
+
 ## v1.0.1.22 — 2026-05-18
 - **Fix:** Account screen now shows real subscription expiry date instead of JWT token expiry
 - **Fix:** Email verification no longer resets expiry to trial date for paid/enterprise accounts
