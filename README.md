@@ -39,7 +39,7 @@ Exclusive spectrum bands (B13 → Verizon, B71 → T-Mobile, B14 → FirstNet) r
 
 <p align="center">
   <a href="https://github.com/veteranop/Cellfire_app_public/releases/latest/download/cellfire-release.apk">
-    <img src="https://img.shields.io/badge/Download%20APK-v1.0.1.22-green?style=for-the-badge&logo=android" alt="Download APK"/>
+    <img src="https://img.shields.io/badge/Download%20APK-v1.0.1.23-green?style=for-the-badge&logo=android" alt="Download APK"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://cellfire.io">
