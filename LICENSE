@@ -1,0 +1,79 @@
+Cellfire — Proprietary Software License (APK distribution only)
+
+Copyright (c) 2026 VeteranOp, LLC. All rights reserved.
+
+1. WHAT THIS REPOSITORY IS
+
+   This repository is the public distribution channel for the Cellfire
+   Android application ("the App"). It contains release binaries (APK files),
+   release notes, and documentation only. No application source code is
+   published here.
+
+2. NO SOURCE LICENSE
+
+   No license, express or implied, is granted to any source code, build
+   configuration, or other implementation of the App. Nothing in this
+   repository grants any right to obtain, copy, modify, translate, decompile,
+   disassemble, reverse-engineer, or create derivative works from the App,
+   except to the limited extent such restriction is prohibited by applicable
+   law.
+
+3. LIMITED LICENSE TO THE BINARY
+
+   Subject to your compliance with this license, VeteranOp grants you a
+   personal, non-exclusive, non-transferable, revocable, royalty-free license
+   to download and install the unmodified APK published in this repository's
+   Releases, and to run it on Android devices you own or control, for your own
+   use.
+
+   Use of the App also requires a Cellfire account and is subject to the terms
+   of service published at https://cellfire.io and the privacy policy at
+   https://cellfire.io/privacy, which govern the Cellfire service (account,
+   coverage tile database, signal rules, and any paid plans).
+
+4. RESTRICTIONS
+
+   You may not:
+   (a) redistribute, sublicense, sell, rent, lease, or otherwise make the App
+       available to third parties, except by linking to this repository's
+       official Releases page;
+   (b) modify, adapt, or create derivative works of the App;
+   (c) remove, obscure, or alter any proprietary notices, trademarks, or
+       attribution in the App;
+   (d) use the App to build a competing product or service, or to bulk
+       extract, scrape, or re-host the Cellfire coverage database;
+   (e) use the App in violation of applicable radio, privacy, or export laws.
+
+5. DOCUMENTATION AND TRADEMARKS
+
+   The text of this repository's README, CHANGELOG, and release notes may be
+   quoted and linked to for the purpose of describing the App. "Cellfire",
+   "VeteranOp", and associated logos are trademarks of VeteranOp, LLC. No
+   trademark rights are granted.
+
+6. THIRD-PARTY COMPONENTS
+
+   The App includes third-party open-source components that are licensed under
+   their own terms. Those terms apply to those components and are not
+   restricted by this license. A component inventory is available on request.
+
+7. NO WARRANTY
+
+   THE APP IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+8. LIMITATION OF LIABILITY
+
+   IN NO EVENT SHALL VETERANOP, LLC BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+   FROM, OUT OF, OR IN CONNECTION WITH THE APP OR ITS USE.
+
+9. TERMINATION
+
+   This license terminates automatically if you breach any of its terms. On
+   termination you must stop using and delete all copies of the App.
+
+10. CONTACT
+
+    VeteranOp, LLC — https://veteranop.com
