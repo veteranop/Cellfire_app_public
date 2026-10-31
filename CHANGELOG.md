@@ -4,6 +4,11 @@ All notable changes to the Cellfire app are listed here, newest first.
 
 ---
 
+## v1.0.1.24 — 2026-10-31
+- **New:** Early Access — every feature is free. No subscription, no credit card, no trial timer
+- **New:** Account screen shows Early Access status instead of an upgrade prompt
+- **Fix:** Removed the "Upgrade Plan" button
+
 ## v1.0.1.23 — 2026-06-22
 - Fix: CSV export now reads from the persistent PCI database instead of the live scan buffer. Exports work correctly whether or not scanning is currently active.
 
