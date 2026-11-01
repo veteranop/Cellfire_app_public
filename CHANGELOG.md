@@ -4,6 +4,10 @@ All notable changes to the Cellfire app are listed here, newest first.
 
 ---
 
+## v1.0.1.35 — 2026-11-01
+- Fix (crash): Start Scan no longer kills the app. The scan screen's cell list was a LazyColumn nested inside a vertically scrolling Column, which threw IllegalStateException the moment the screen opened in 1.0.1.34. Header, controls and the cell grid now live in one LazyColumn, so the screen still scrolls on short and landscape viewports.
+
+
 ## v1.0.1.24 — 2026-10-31
 - **New:** Early Access — every feature is free. No subscription, no credit card, no trial timer
 - **New:** Account screen shows Early Access status instead of an upgrade prompt
